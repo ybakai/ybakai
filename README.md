@@ -1,7 +1,7 @@
 # Yehor Bakai · Frontend Developer
 
 > Building modern web interfaces with React & TypeScript.  
-> Based in Poland 🇵🇱 · Originally from Ukraine 🇺🇦
+> Based in Poland 🇵🇱 
 
 ---
 

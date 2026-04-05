@@ -29,7 +29,7 @@ Always learning, always shipping.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🍕 [Pizza App](https://github.com/ybakai/pizza-app) | Food ordering app with cart and order management | React, TS, Zustand, Tailwind |
-| more coming soon... | | |
+| ✅ [Todo App](https://github.com/ybakai/todo-app) | Task manager with clean UI | React, TS, SCSS |
 
 ---
 

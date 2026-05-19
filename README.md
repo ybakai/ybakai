@@ -30,6 +30,7 @@ Always learning, always shipping.
 |---------|-------------|-------|
 | 🍕 [Pizza App](https://github.com/ybakai/pizza-app) | Food ordering app with cart and order management | React, TS, Zustand, Tailwind |
 | ✅ [Todo App](https://github.com/ybakai/todo-app) | Task manager with clean UI | React, TS, SCSS |
+| 🌦️ [Weather App](https://github.com/ybakai/weather-app) | Weather forecast app with real-time data and responsive UI | React, TS, API |
 
 ---
 
